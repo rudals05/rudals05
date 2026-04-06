@@ -4,6 +4,7 @@
 데브옵스(DevOps) 및 클라우드 인프라 구축에 관심이 많습니다.
 
 ### 📌 Status
+
 - **Military Service** : 2025.12.08 ~ 2027.06.07
 - **Studying** : JLPT N3(26.03.01~), SQLD, Linux Master 2급 (26.03.15~)
 
